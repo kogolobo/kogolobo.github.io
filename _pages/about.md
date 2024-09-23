@@ -13,7 +13,7 @@ I am a PhD student at UW, in the Applied Mathematics department. Before that, I 
 
 I am interested in mathematical and computational methods for efficient deep learning:
 - Stochastic Optimization methods for autoregressive decoding
-- Numerical Analysis for accelerated matrix operations
+- High-Performance Computing for deep learning acceleration
 - Applied Probability & Optimal Transport for robust learning
 - Efficient Methods and Systems: integrating theory with tangible applications
 
