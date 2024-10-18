@@ -19,7 +19,7 @@ I am interested in mathematical and computational methods for efficient deep lea
 
 ## Education
 * Ph.D in Applied Mathematics, [University of Washington](https://amath.washington.edu/), 2029 (expected)
-* M.S. in Computational & Applied Mathematics, [University of Washington](https://amath.washington.edu/), 3.9/4.0, 2024
+* M.S. in Computational & Applied Mathematics, [University of Washington](https://amath.washington.edu/), 3.98/4.0, 2024
 * B.Sc.Eng. in Computer Science, [University of Michigan](https://www.engin.umich.edu/), 3.8/4.0, 2018
 
 ## Experience
