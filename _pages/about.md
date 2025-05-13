@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at UW, in the Applied Mathematics department. I am very fortunate to be co-advised by [Prof. Aleksandr Aravkin](https://uw-amo.github.io/saravkin/) and [Prof. Zaid Harchaoui](https://sites.google.com/uw.edu/zaid-harchaoui/main). Before starting PhD studies, I completed a Master's degree in Applied & Computational Mathematics at UW. Prior to returning to academia, I worked in applied NLP at Microsoft for 5.5 years, most recently as a Senior Applied Researcher in Azure AI. I completed my Bachelor's in Computer Science Engineering at University of Michigan, where I also had the honor of being a Men's Varsity Wrestling student-athlete.
+I am a PhD student at UW, in the Applied Mathematics department. I am very fortunate to be co-advised by [Prof. Aleksandr Aravkin](https://uw-amo.github.io/saravkin/) and [Prof. Zaid Harchaoui](https://sites.google.com/uw.edu/zaid-harchaoui/main). Before starting the PhD studies, I completed a Master's degree in Applied & Computational Mathematics at UW. Prior to returning to academia, I worked in applied NLP at Microsoft for 5.5 years, most recently as a Senior Applied Researcher in Azure AI. I completed my Bachelor's in Computer Science Engineering at University of Michigan, where I also had the honor of being a Men's Varsity Wrestling student-athlete.
 
 ## Research Interests
 
