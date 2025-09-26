@@ -12,7 +12,7 @@ I am a PhD student at UW, in the Applied Mathematics department. I am very fortu
 ## Research Interests
 
 I am interested in mathematical and computational methods for efficient deep learning:
-- Stochastic Optimization methods for autoregressive decoding
+- Stochastic Optimization methods for nonconvex problems
 - High-Performance Computing for deep learning acceleration
 - Applied Probability & Optimal Transport for robust learning
 - Efficient Methods and Systems: integrating theory with tangible applications
