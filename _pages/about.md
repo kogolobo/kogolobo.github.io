@@ -23,7 +23,7 @@ I am interested in mathematical and computational methods for efficient deep lea
 * B.Sc.Eng. in Computer Science, [University of Michigan](https://www.engin.umich.edu/), 3.8/4.0, 2018
 
 ## Experience
-* Research Scientist Intern, [Meta FAIR](https://ai.meta.com/research/), 2025
+* Research Scientist Intern, [Meta FAIR](https://ai.meta.com/research/), Fall 2025, Fall 2026
 * Senior Applied Researcher, [Microsoft AzureAI](https://azure.microsoft.com/en-us/solutions/ai/), 2023-2024
 * Applied Researcher, [Microsoft AzureAI](https://azure.microsoft.com/en-us/solutions/ai/), 2022-2023
 * Machine Learning Scientist, [Microsoft Bing Ads](https://ads.microsoft.com/), 2018-2022
